@@ -1,6 +1,6 @@
 # D-Portfolio
 *****
-### Author : Derek Muguti
+### Author : Derek Muguti 
 ****
 ## Project Description
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
@@ -61,4 +61,4 @@ Or you can access the web application directly via this [LINK.](link.com/)
 *****
 ## [License](LICENSE)
 MIT License
-Copyright (c) YEAR Author
+Copyright (c) 2023 Muguti
